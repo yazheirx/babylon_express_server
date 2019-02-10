@@ -1,0 +1,28 @@
+{
+  "name": "babylon_express_server",
+  "version": "1.0.0",
+  "description": "An implementation of Express and BabylonJS to make it easier to code BabylonJS apps in NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yazheirx/babylon_express_server.git"
+  },
+  "keywords": [
+    "BabylonJS",
+    "Express",
+    "NodeJS"
+  ],
+  "author": "Justin G. Cramer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yazheirx/babylon_express_server/issues"
+  },
+  "homepage": "https://github.com/yazheirx/babylon_express_server#readme",
+  "dependencies": {
+    "babylonjs": "^3.3.0",
+    "express": "^4.16.4"
+  }
+}
