@@ -18,4 +18,4 @@ After completing the installation just replace the code in /public/js/index.js o
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/yazheirx/babylon_express_server/blob/master/LICENSE)
