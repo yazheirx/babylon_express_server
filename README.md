@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/yazheirx/Go3D/badge.svg?targetFile=package.json)](https://snyk.io/test/github/yazheirx/Go3D?targetFile=package.json)
+
 # Babylon Express Server
 
 An implementation of Express and BabylonJS to make it easier to code BabylonJS apps in NodeJS.
