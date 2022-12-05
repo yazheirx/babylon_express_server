@@ -23,6 +23,6 @@
   "homepage": "https://github.com/yazheirx/babylon_express_server#readme",
   "dependencies": {
     "babylonjs": "^3.3.0",
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   }
 }
